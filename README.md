@@ -1,3 +1,3 @@
 # Kodluyoruz
 
-A small project given by Kodluyoruz.
+A small game project given by Kodluyoruz.
